@@ -1,0 +1,120 @@
+{
+    "name": "Zendesk",
+    "description": "Customer service software and support ticketing system by Zendesk. Cloud-based help desk solution used by more than 200,000 organizations worldwide. Free 30-day trial.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/283-zendesk.jpg",
+    "tags": [
+        "api lifeycle",
+        "have api",
+        "helpdesk",
+        "interent",
+        "relative data",
+        "service api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/zendesk\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Swagger API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/283-zendesk.jpg",
+            "humanURL": "http:\/\/desk.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/swagger-api-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/swagger-api.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/swagger-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/zendesk.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.zendesk.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.zendesk.com\/feed"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/zendesk"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/zendesk"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.zendesk.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "support@zendesk.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@zendesk.com"
+        },
+        {
+            "type": "Email",
+            "url": "ip@zendesk.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@zendesk.com"
+        },
+        {
+            "type": "Email",
+            "url": "press@zendesk.com"
+        },
+        {
+            "type": "FAQ",
+            "url": "https:\/\/gemini24.zendesk.com\/hc\/en-us"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/zendesk"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.zendesk.com\/product\/pricing\/"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/genexus.zendesk.com\/hc\/en-us"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/gemini24.zendesk.com\/hc\/en-us\/requests\/new"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/zendesk"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.zendesk.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/desk.com"
+        }
+    ]
+}
