@@ -1,0 +1,51 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "",
+        "title": "Swagger API",
+        "description": "",
+        "termsOfService": ""
+    },
+    "servers": [
+        "https{host}.zendesk.com\/api\/v2\/"
+    ],
+    "paths": {
+        "\/tickets.json": {
+            "post": {
+                "summary": "createTicket",
+                "description": "Create Ticket",
+                "operationId": "TicketsJsonPost",
+                "deprecated": 0,
+                "parameters": [
+                    {
+                        "name": "ticket",
+                        "in": "body",
+                        "description": "Ticket"
+                    }
+                ]
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "Ticket": {
+                "type": "object",
+                "properties": {
+                    "ticket": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            },
+            "TicketResponse": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "description": "",
+                        "type": "post"
+                    }
+                }
+            }
+        }
+    }
+}
