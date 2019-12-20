@@ -1,0 +1,44 @@
+{
+    "id": "958310f3340dce5a22e1b3da968223d6",
+    "name": "Swagger API",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "594529c74d58c1104281de24cd69b31b",
+            "name": "createTicket",
+            "url": "https{host}.zendesk.com\/api\/v2\/\/tickets.json",
+            "description": "Create Ticket",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "post",
+            "pathVariableData": [],
+            "queryParams": [
+                {
+                    "key": "ticket",
+                    "description": "Ticket",
+                    "value": "",
+                    "equals": true,
+                    "enabled": true
+                }
+            ],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "958310f3340dce5a22e1b3da968223d6",
+            "rawModeData": ""
+        }
+    ]
+}
