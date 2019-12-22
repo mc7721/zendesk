@@ -1,5 +1,5 @@
 {
-    "id": "958310f3340dce5a22e1b3da968223d6",
+    "id": "c7ec8c6fc3d90655fe6f53153d1cec5c",
     "name": "Swagger API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "594529c74d58c1104281de24cd69b31b",
+            "id": "6740014e3bfd60f7f19fd64c5072fa43",
             "name": "createTicket",
             "url": "https{host}.zendesk.com\/api\/v2\/\/tickets.json",
             "description": "Create Ticket",
@@ -37,7 +37,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "958310f3340dce5a22e1b3da968223d6",
+            "collectionId": "c7ec8c6fc3d90655fe6f53153d1cec5c",
             "rawModeData": ""
         }
     ]
